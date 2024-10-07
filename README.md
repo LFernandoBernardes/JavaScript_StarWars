@@ -12,4 +12,4 @@ Introdução ao desenvolvimento web: Além do JavaScript, tivemos uma introduç�
 
 Criação de uma WebApp com Vue.js: Colocamos em prática o que aprendemos desenvolvendo uma aplicação web utilizando o framework Vue.js.
 
-![alt text](images/star_wars_lego.png)
+![alt text](images/star_wars_lego2.png)
